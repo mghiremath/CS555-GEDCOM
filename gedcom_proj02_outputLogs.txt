@@ -1,0 +1,1349 @@
+Output console logs of GEDCOM project 02: Authored by Maheshwarswami G Hiremath ; CWID-20015431
+--> 0 NOTE Maheshwarswami Gadigeyyaswami Hiremath
+<-- 0|NOTE|Y|Maheshwarswami Gadigeyyaswami Hiremath
+--> 0 HEAD
+<-- 0|HEAD|Y|
+--> 1 SOUR Geni.com
+<-- 1|SOUR|N|Geni.com
+--> 2 VERS 1.0
+<-- 2|VERS|N|1.0
+--> 1 DATE 12 SEP 2022
+<-- 1|DATE|Y|12 SEP 2022
+--> 2 TIME 18:04:59
+<-- 2|TIME|N|18:04:59
+--> 1 SUBM @S6000000187208539823@
+<-- 1|SUBM|N|@S6000000187208539823@
+--> 1 GEDC
+<-- 1|GEDC|N|
+--> 2 VERS 5.5.1
+<-- 2|VERS|N|5.5.1
+--> 2 FORM LINEAGE-LINKED
+<-- 2|FORM|N|LINEAGE-LINKED
+--> 1 CHAR UTF-8
+<-- 1|CHAR|N|UTF-8
+--> 0 @I6000000187208539823@ INDI
+<-- 0|INDI|Y|@I6000000187208539823@
+--> 1 NAME Mahesh /Hiremath/
+<-- 1|NAME|Y|Mahesh /Hiremath/
+--> 2 GIVN Mahesh
+<-- 2|GIVN|N|Mahesh
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 15 AUG 1996
+<-- 2|DATE|Y|15 AUG 1996
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 ADDR mg.hiremath1996@gmail.com
+<-- 1|ADDR|N|mg.hiremath1996@gmail.com
+--> 2 EMAIL mg.hiremath1996@gmail.com
+<-- 2|EMAIL|N|mg.hiremath1996@gmail.com
+--> 1 FAMC @F6000000187208645837@
+<-- 1|FAMC|Y|@F6000000187208645837@
+--> 1 RFN geni:6000000187208539823
+<-- 1|RFN|N|geni:6000000187208539823
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:08:46
+<-- 3|TIME|N|16:08:46
+--> 0 @I6000000187208645832@ INDI
+<-- 0|INDI|Y|@I6000000187208645832@
+--> 1 NAME G A /Hiremath/
+<-- 1|NAME|Y|G A /Hiremath/
+--> 2 GIVN G A
+<-- 2|GIVN|N|G A
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 15 MAR 1960
+<-- 2|DATE|Y|15 MAR 1960
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU Advocate
+<-- 1|OCCU|N|Advocate
+--> 1 ADDR hiremathga608@gmail.com
+<-- 1|ADDR|N|hiremathga608@gmail.com
+--> 2 EMAIL hiremathga608@gmail.com
+<-- 2|EMAIL|N|hiremathga608@gmail.com
+--> 1 FAMC @F6000000187208777829@
+<-- 1|FAMC|Y|@F6000000187208777829@
+--> 1 FAMS @F6000000187208645837@
+<-- 1|FAMS|Y|@F6000000187208645837@
+--> 1 RFN geni:6000000187208645832
+<-- 1|RFN|N|geni:6000000187208645832
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:06:50
+<-- 3|TIME|N|16:06:50
+--> 0 @I6000000187208652873@ INDI
+<-- 0|INDI|Y|@I6000000187208652873@
+--> 1 NAME Lalita /Hiremath/
+<-- 1|NAME|Y|Lalita /Hiremath/
+--> 2 GIVN Lalita
+<-- 2|GIVN|N|Lalita
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 23 MAR 1973
+<-- 2|DATE|Y|23 MAR 1973
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMC @F6000000187208850829@
+<-- 1|FAMC|Y|@F6000000187208850829@
+--> 1 FAMS @F6000000187208645837@
+<-- 1|FAMS|Y|@F6000000187208645837@
+--> 1 RFN geni:6000000187208652873
+<-- 1|RFN|N|geni:6000000187208652873
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:10:16
+<-- 3|TIME|N|16:10:16
+--> 0 @I6000000187208498848@ INDI
+<-- 0|INDI|Y|@I6000000187208498848@
+--> 1 NAME Mruthyunjay G /Hiremath/
+<-- 1|NAME|Y|Mruthyunjay G /Hiremath/
+--> 2 GIVN Mruthyunjay G
+<-- 2|GIVN|N|Mruthyunjay G
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2 JAN 1994
+<-- 2|DATE|Y|2 JAN 1994
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU Civil Engineer
+<-- 1|OCCU|N|Civil Engineer
+--> 1 RESI
+<-- 1|RESI|N|
+--> 2 ADDR 581205 Shiggaon
+<-- 2|ADDR|N|581205 Shiggaon
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Shiggaon
+<-- 3|CITY|N|Shiggaon
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581205
+<-- 3|POST|N|581205
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 FAMC @F6000000187208645837@
+<-- 1|FAMC|Y|@F6000000187208645837@
+--> 1 RFN geni:6000000187208498848
+<-- 1|RFN|N|geni:6000000187208498848
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:24:13
+<-- 3|TIME|N|16:24:13
+--> 0 @I6000000187208777821@ INDI
+<-- 0|INDI|Y|@I6000000187208777821@
+--> 1 NAME A G /Hiremath/
+<-- 1|NAME|Y|A G /Hiremath/
+--> 2 GIVN A G
+<-- 2|GIVN|N|A G
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 15 NOV 1920
+<-- 2|DATE|Y|15 NOV 1920
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 5 AUG 2007
+<-- 2|DATE|Y|5 AUG 2007
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU Priest
+<-- 1|OCCU|N|Priest
+--> 1 FAMC @F6000000187208915834@
+<-- 1|FAMC|Y|@F6000000187208915834@
+--> 1 FAMS @F6000000187208777829@
+<-- 1|FAMS|Y|@F6000000187208777829@
+--> 1 RFN geni:6000000187208777821
+<-- 1|RFN|N|geni:6000000187208777821
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:36:42
+<-- 3|TIME|N|17:36:42
+--> 0 @I6000000187208791822@ INDI
+<-- 0|INDI|Y|@I6000000187208791822@
+--> 1 NAME Sarvamangala A /Hiremath/
+<-- 1|NAME|Y|Sarvamangala A /Hiremath/
+--> 2 GIVN Sarvamangala A
+<-- 2|GIVN|N|Sarvamangala A
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 15 OCT 1923
+<-- 2|DATE|Y|15 OCT 1923
+--> 2 ADDR 580029 Hubballi
+<-- 2|ADDR|N|580029 Hubballi
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Hubballi
+<-- 3|CITY|N|Hubballi
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 580029
+<-- 3|POST|N|580029
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 11 AUG 2006
+<-- 2|DATE|Y|11 AUG 2006
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU House wife
+<-- 1|OCCU|N|House wife
+--> 1 FAMC @F6000000187208920844@
+<-- 1|FAMC|Y|@F6000000187208920844@
+--> 1 FAMS @F6000000187208777829@
+<-- 1|FAMS|Y|@F6000000187208777829@
+--> 1 RFN geni:6000000187208791822
+<-- 1|RFN|N|geni:6000000187208791822
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:15:32
+<-- 3|TIME|N|16:15:32
+--> 0 @I6000000187208836828@ INDI
+<-- 0|INDI|Y|@I6000000187208836828@
+--> 1 NAME Basamma /Hiremath/
+<-- 1|NAME|Y|Basamma /Hiremath/
+--> 2 GIVN Basamma
+<-- 2|GIVN|N|Basamma
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 1 JAN 1941
+<-- 2|DATE|Y|1 JAN 1941
+--> 2 ADDR 587121 Mantur
+<-- 2|ADDR|N|587121 Mantur
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Mantur
+<-- 3|CITY|N|Mantur
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 587121
+<-- 3|POST|N|587121
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU Singer
+<-- 1|OCCU|N|Singer
+--> 1 RESI
+<-- 1|RESI|N|
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 FAMC @F6000000187209674837@
+<-- 1|FAMC|Y|@F6000000187209674837@
+--> 1 FAMS @F6000000187208850829@
+<-- 1|FAMS|Y|@F6000000187208850829@
+--> 1 RFN geni:6000000187208836828
+<-- 1|RFN|N|geni:6000000187208836828
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:22:39
+<-- 3|TIME|N|16:22:39
+--> 0 @I6000000187208850821@ INDI
+<-- 0|INDI|Y|@I6000000187208850821@
+--> 1 NAME M S /Hiremath/
+<-- 1|NAME|Y|M S /Hiremath/
+--> 2 GIVN M S
+<-- 2|GIVN|N|M S
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 11 NOV 1935
+<-- 2|DATE|Y|11 NOV 1935
+--> 2 ADDR 581106 Gundenahalli
+<-- 2|ADDR|N|581106 Gundenahalli
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Gundenahalli
+<-- 3|CITY|N|Gundenahalli
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581106
+<-- 3|POST|N|581106
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 27 NOV 2017
+<-- 2|DATE|Y|27 NOV 2017
+--> 2 ADDR 580029 Hubballi
+<-- 2|ADDR|N|580029 Hubballi
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Hubballi
+<-- 3|CITY|N|Hubballi
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 580029
+<-- 3|POST|N|580029
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU Teacher
+<-- 1|OCCU|N|Teacher
+--> 1 FAMC @F6000000187208820854@
+<-- 1|FAMC|Y|@F6000000187208820854@
+--> 1 FAMS @F6000000187208850829@
+<-- 1|FAMS|Y|@F6000000187208850829@
+--> 1 RFN geni:6000000187208850821
+<-- 1|RFN|N|geni:6000000187208850821
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:21:31
+<-- 3|TIME|N|16:21:31
+--> 0 @I6000000187208705860@ INDI
+<-- 0|INDI|Y|@I6000000187208705860@
+--> 1 NAME Parvathi /Hiremath/
+<-- 1|NAME|Y|Parvathi /Hiremath/
+--> 2 GIVN Parvathi
+<-- 2|GIVN|N|Parvathi
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 16 MAY 1895
+<-- 2|DATE|Y|16 MAY 1895
+--> 2 ADDR Davanagere
+<-- 2|ADDR|N|Davanagere
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Davanagere
+<-- 3|CITY|N|Davanagere
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 18 SEP 1974
+<-- 2|DATE|Y|18 SEP 1974
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU Housemaker
+<-- 1|OCCU|N|Housemaker
+--> 1 FAMS @F6000000187208915834@
+<-- 1|FAMS|Y|@F6000000187208915834@
+--> 1 RFN geni:6000000187208705860
+<-- 1|RFN|N|geni:6000000187208705860
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:38:39
+<-- 3|TIME|N|17:38:39
+--> 0 @I6000000187208915826@ INDI
+<-- 0|INDI|Y|@I6000000187208915826@
+--> 1 NAME Gadigeyya /Hiremath/
+<-- 1|NAME|Y|Gadigeyya /Hiremath/
+--> 2 GIVN Gadigeyya
+<-- 2|GIVN|N|Gadigeyya
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 10 OCT 1890
+<-- 2|DATE|Y|10 OCT 1890
+--> 2 ADDR 580020 Hubli
+<-- 2|ADDR|N|580020 Hubli
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Hubli
+<-- 3|CITY|N|Hubli
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 580020
+<-- 3|POST|N|580020
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 18 FEB 1965
+<-- 2|DATE|Y|18 FEB 1965
+--> 2 ADDR Kyalkond
+<-- 2|ADDR|N|Kyalkond
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Kyalkond
+<-- 3|CITY|N|Kyalkond
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU Farmer
+<-- 1|OCCU|N|Farmer
+--> 1 FAMS @F6000000187208915834@
+<-- 1|FAMS|Y|@F6000000187208915834@
+--> 1 RFN geni:6000000187208915826
+<-- 1|RFN|N|geni:6000000187208915826
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:37:51
+<-- 3|TIME|N|17:37:51
+--> 0 @I6000000187208530894@ INDI
+<-- 0|INDI|Y|@I6000000187208530894@
+--> 1 NAME Jayasheela K /Hiremath/
+<-- 1|NAME|Y|Jayasheela K /Hiremath/
+--> 2 GIVN Jayasheela K
+<-- 2|GIVN|N|Jayasheela K
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 13 DEC 1884
+<-- 2|DATE|Y|13 DEC 1884
+--> 2 ADDR Bagalkot
+<-- 2|ADDR|N|Bagalkot
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bagalkot
+<-- 3|CITY|N|Bagalkot
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 28 DEC 1952
+<-- 2|DATE|Y|28 DEC 1952
+--> 2 ADDR Bagalkot
+<-- 2|ADDR|N|Bagalkot
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bagalkot
+<-- 3|CITY|N|Bagalkot
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 DATE 29 DEC 1952
+<-- 2|DATE|Y|29 DEC 1952
+--> 2 ADDR Bagalkot
+<-- 2|ADDR|N|Bagalkot
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bagalkot
+<-- 3|CITY|N|Bagalkot
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMS @F6000000187208920844@
+<-- 1|FAMS|Y|@F6000000187208920844@
+--> 1 RFN geni:6000000187208530894
+<-- 1|RFN|N|geni:6000000187208530894
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:45:12
+<-- 3|TIME|N|16:45:12
+--> 0 @I6000000187208920836@ INDI
+<-- 0|INDI|Y|@I6000000187208920836@
+--> 1 NAME Kumar /Hiremath/
+<-- 1|NAME|Y|Kumar /Hiremath/
+--> 2 GIVN Kumar
+<-- 2|GIVN|N|Kumar
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR Chitradurga
+<-- 2|ADDR|N|Chitradurga
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Chitradurga
+<-- 3|CITY|N|Chitradurga
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 12 JUL 1887
+<-- 2|DATE|Y|12 JUL 1887
+--> 2 ADDR Chitradurga
+<-- 2|ADDR|N|Chitradurga
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Chitradurga
+<-- 3|CITY|N|Chitradurga
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 15 SEP 1948
+<-- 2|DATE|Y|15 SEP 1948
+--> 2 ADDR Chitradurga
+<-- 2|ADDR|N|Chitradurga
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Chitradurga
+<-- 3|CITY|N|Chitradurga
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMS @F6000000187208920844@
+<-- 1|FAMS|Y|@F6000000187208920844@
+--> 1 RFN geni:6000000187208920836
+<-- 1|RFN|N|geni:6000000187208920836
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 16:36:09
+<-- 3|TIME|N|16:36:09
+--> 0 @I6000000187209674829@ INDI
+<-- 0|INDI|Y|@I6000000187209674829@
+--> 1 NAME Pavan /Hiremath/
+<-- 1|NAME|Y|Pavan /Hiremath/
+--> 2 GIVN Pavan
+<-- 2|GIVN|N|Pavan
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR 582207 Nargund
+<-- 2|ADDR|N|582207 Nargund
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Nargund
+<-- 3|CITY|N|Nargund
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 582207
+<-- 3|POST|N|582207
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 16 JAN 1906
+<-- 2|DATE|Y|16 JAN 1906
+--> 2 ADDR 582207 Nargund
+<-- 2|ADDR|N|582207 Nargund
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Nargund
+<-- 3|CITY|N|Nargund
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 582207
+<-- 3|POST|N|582207
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 29 SEP 1984
+<-- 2|DATE|Y|29 SEP 1984
+--> 2 ADDR 582207 Nargund
+<-- 2|ADDR|N|582207 Nargund
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Nargund
+<-- 3|CITY|N|Nargund
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 582207
+<-- 3|POST|N|582207
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMS @F6000000187209674837@
+<-- 1|FAMS|Y|@F6000000187209674837@
+--> 1 RFN geni:6000000187209674829
+<-- 1|RFN|N|geni:6000000187209674829
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:42:30
+<-- 3|TIME|N|17:42:30
+--> 0 @I6000000187209870827@ INDI
+<-- 0|INDI|Y|@I6000000187209870827@
+--> 1 NAME Savitri /Hiremath/
+<-- 1|NAME|Y|Savitri /Hiremath/
+--> 2 GIVN Savitri
+<-- 2|GIVN|N|Savitri
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR 581205 Shiggaon
+<-- 2|ADDR|N|581205 Shiggaon
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Shiggaon
+<-- 3|CITY|N|Shiggaon
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581205
+<-- 3|POST|N|581205
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 18 NOV 1912
+<-- 2|DATE|Y|18 NOV 1912
+--> 2 ADDR 581205 Shiggaon
+<-- 2|ADDR|N|581205 Shiggaon
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Shiggaon
+<-- 3|CITY|N|Shiggaon
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581205
+<-- 3|POST|N|581205
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 18 MAY 1989
+<-- 2|DATE|Y|18 MAY 1989
+--> 2 ADDR 581205 Shiggaon
+<-- 2|ADDR|N|581205 Shiggaon
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Shiggaon
+<-- 3|CITY|N|Shiggaon
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581205
+<-- 3|POST|N|581205
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMS @F6000000187209674837@
+<-- 1|FAMS|Y|@F6000000187209674837@
+--> 1 RFN geni:6000000187209870827
+<-- 1|RFN|N|geni:6000000187209870827
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:43:05
+<-- 3|TIME|N|17:43:05
+--> 0 @I6000000187209296821@ INDI
+<-- 0|INDI|Y|@I6000000187209296821@
+--> 1 NAME Kavitha /Hiremath/
+<-- 1|NAME|Y|Kavitha /Hiremath/
+--> 2 GIVN Kavitha
+<-- 2|GIVN|N|Kavitha
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR Bagalkot
+<-- 2|ADDR|N|Bagalkot
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bagalkot
+<-- 3|CITY|N|Bagalkot
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 23 MAY 1910
+<-- 2|DATE|Y|23 MAY 1910
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 12 SEP 1936
+<-- 2|DATE|Y|12 SEP 1936
+--> 2 ADDR Bagalkot
+<-- 2|ADDR|N|Bagalkot
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bagalkot
+<-- 3|CITY|N|Bagalkot
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMS @F6000000187208820854@
+<-- 1|FAMS|Y|@F6000000187208820854@
+--> 1 RFN geni:6000000187209296821
+<-- 1|RFN|N|geni:6000000187209296821
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:45:56
+<-- 3|TIME|N|17:45:56
+--> 0 @I6000000187208820846@ INDI
+<-- 0|INDI|Y|@I6000000187208820846@
+--> 1 NAME Mohan /Hiremath/
+<-- 1|NAME|Y|Mohan /Hiremath/
+--> 2 GIVN Mohan
+<-- 2|GIVN|N|Mohan
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR 581106 Motebennur
+<-- 2|ADDR|N|581106 Motebennur
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Motebennur
+<-- 3|CITY|N|Motebennur
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581106
+<-- 3|POST|N|581106
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 13 APR 1907
+<-- 2|DATE|Y|13 APR 1907
+--> 2 ADDR KA India
+<-- 2|ADDR|N|KA India
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 15 SEP 1975
+<-- 2|DATE|Y|15 SEP 1975
+--> 2 ADDR 581106 Motebennur
+<-- 2|ADDR|N|581106 Motebennur
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Motebennur
+<-- 3|CITY|N|Motebennur
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581106
+<-- 3|POST|N|581106
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMS @F6000000187208820854@
+<-- 1|FAMS|Y|@F6000000187208820854@
+--> 1 FAMS @F6000000187209521830@
+<-- 1|FAMS|Y|@F6000000187209521830@
+--> 1 RFN geni:6000000187208820846
+<-- 1|RFN|N|geni:6000000187208820846
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:40:07
+<-- 3|TIME|N|17:40:07
+--> 0 @I6000000187209521822@ INDI
+<-- 0|INDI|Y|@I6000000187209521822@
+--> 1 NAME Shweta /Hiremath/
+<-- 1|NAME|Y|Shweta /Hiremath/
+--> 2 GIVN Shweta
+<-- 2|GIVN|N|Shweta
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR KA India
+<-- 2|ADDR|N|KA India
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 5 JUL 1911
+<-- 2|DATE|Y|5 JUL 1911
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 27 JUL 1978
+<-- 2|DATE|Y|27 JUL 1978
+--> 2 ADDR KA India
+<-- 2|ADDR|N|KA India
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMS @F6000000187209521830@
+<-- 1|FAMS|Y|@F6000000187209521830@
+--> 1 RFN geni:6000000187209521822
+<-- 1|RFN|N|geni:6000000187209521822
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:53:43
+<-- 3|TIME|N|17:53:43
+--> 0 @I6000000187209644836@ INDI
+<-- 0|INDI|Y|@I6000000187209644836@
+--> 1 NAME Varsha /Hiremath/
+<-- 1|NAME|Y|Varsha /Hiremath/
+--> 2 GIVN Varsha
+<-- 2|GIVN|N|Varsha
+--> 2 SURN Hiremath
+<-- 2|SURN|N|Hiremath
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 10 OCT 1935
+<-- 2|DATE|Y|10 OCT 1935
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 12 OCT 2005
+<-- 2|DATE|Y|12 OCT 2005
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMC @F6000000187209521830@
+<-- 1|FAMC|Y|@F6000000187209521830@
+--> 1 FAMS @F6000000187209672827@
+<-- 1|FAMS|Y|@F6000000187209672827@
+--> 1 RFN geni:6000000187209644836
+<-- 1|RFN|N|geni:6000000187209644836
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:23:24
+<-- 3|TIME|N|17:23:24
+--> 0 @I6000000187209716823@ INDI
+<-- 0|INDI|Y|@I6000000187209716823@
+--> 1 NAME Rudra /Hiremath/
+<-- 1|NAME|Y|Rudra /Hiremath/
+--> 2 GIVN Rudra
+<-- 2|GIVN|N|Rudra
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BURI
+<-- 1|BURI|N|
+--> 2 ADDR 581322 Bilagi
+<-- 2|ADDR|N|581322 Bilagi
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bilagi
+<-- 3|CITY|N|Bilagi
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581322
+<-- 3|POST|N|581322
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 23 APR 1933
+<-- 2|DATE|Y|23 APR 1933
+--> 2 ADDR Bagalkot
+<-- 2|ADDR|N|Bagalkot
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bagalkot
+<-- 3|CITY|N|Bagalkot
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 DEAT
+<-- 1|DEAT|Y|
+--> 2 DATE 14 SEP 2009
+<-- 2|DATE|Y|14 SEP 2009
+--> 2 ADDR 581322 Bilagi
+<-- 2|ADDR|N|581322 Bilagi
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bilagi
+<-- 3|CITY|N|Bilagi
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581322
+<-- 3|POST|N|581322
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 FAMS @F6000000187209672827@
+<-- 1|FAMS|Y|@F6000000187209672827@
+--> 1 RFN geni:6000000187209716823
+<-- 1|RFN|N|geni:6000000187209716823
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:24:47
+<-- 3|TIME|N|17:24:47
+--> 0 @I6000000187209672822@ INDI
+<-- 0|INDI|Y|@I6000000187209672822@
+--> 1 NAME Harish /Hiremath/
+<-- 1|NAME|Y|Harish /Hiremath/
+--> 2 GIVN Harish
+<-- 2|GIVN|N|Harish
+--> 2 _MARNM Hiremath
+<-- 2|_MARNM|N|Hiremath
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 11 AUG 1960
+<-- 2|DATE|Y|11 AUG 1960
+--> 2 ADDR 580001 Dharwad
+<-- 2|ADDR|N|580001 Dharwad
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Dharwad
+<-- 3|CITY|N|Dharwad
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 580001
+<-- 3|POST|N|580001
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 OCCU
+<-- 1|OCCU|N|
+--> 1 RESI
+<-- 1|RESI|N|
+--> 2 ADDR 580001 Dharwad
+<-- 2|ADDR|N|580001 Dharwad
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Dharwad
+<-- 3|CITY|N|Dharwad
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 580001
+<-- 3|POST|N|580001
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 FAMC @F6000000187209672827@
+<-- 1|FAMC|Y|@F6000000187209672827@
+--> 1 RFN geni:6000000187209672822
+<-- 1|RFN|N|geni:6000000187209672822
+--> 1 CHAN
+<-- 1|CHAN|N|
+--> 2 DATE 12 SEP 2022
+<-- 2|DATE|Y|12 SEP 2022
+--> 3 TIME 17:20:46
+<-- 3|TIME|N|17:20:46
+--> 0 @F6000000187208645837@ FAM
+<-- 0|FAM|Y|@F6000000187208645837@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 29 JAN 1993
+<-- 2|DATE|Y|29 JAN 1993
+--> 2 ADDR 581110 Haveri
+<-- 2|ADDR|N|581110 Haveri
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Haveri
+<-- 3|CITY|N|Haveri
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 581110
+<-- 3|POST|N|581110
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 HUSB @I6000000187208645832@
+<-- 1|HUSB|Y|@I6000000187208645832@
+--> 1 WIFE @I6000000187208652873@
+<-- 1|WIFE|Y|@I6000000187208652873@
+--> 1 CHIL @I6000000187208498848@
+<-- 1|CHIL|Y|@I6000000187208498848@
+--> 1 CHIL @I6000000187208539823@
+<-- 1|CHIL|Y|@I6000000187208539823@
+--> 0 @F6000000187208777829@ FAM
+<-- 0|FAM|Y|@F6000000187208777829@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 15 MAR 1945
+<-- 2|DATE|Y|15 MAR 1945
+--> 2 ADDR 580029 Hubballi
+<-- 2|ADDR|N|580029 Hubballi
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Hubballi
+<-- 3|CITY|N|Hubballi
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 POST 580029
+<-- 3|POST|N|580029
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 HUSB @I6000000187208777821@
+<-- 1|HUSB|Y|@I6000000187208777821@
+--> 1 WIFE @I6000000187208791822@
+<-- 1|WIFE|Y|@I6000000187208791822@
+--> 1 CHIL @I6000000187208645832@
+<-- 1|CHIL|Y|@I6000000187208645832@
+--> 0 @F6000000187208850829@ FAM
+<-- 0|FAM|Y|@F6000000187208850829@
+--> 1 WIFE @I6000000187208836828@
+<-- 1|WIFE|Y|@I6000000187208836828@
+--> 1 HUSB @I6000000187208850821@
+<-- 1|HUSB|Y|@I6000000187208850821@
+--> 1 CHIL @I6000000187208652873@
+<-- 1|CHIL|Y|@I6000000187208652873@
+--> 0 @F6000000187208915834@ FAM
+<-- 0|FAM|Y|@F6000000187208915834@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 15 AUG 1915
+<-- 2|DATE|Y|15 AUG 1915
+--> 2 ADDR Hubli
+<-- 2|ADDR|N|Hubli
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Hubli
+<-- 3|CITY|N|Hubli
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 WIFE @I6000000187208705860@
+<-- 1|WIFE|Y|@I6000000187208705860@
+--> 1 HUSB @I6000000187208915826@
+<-- 1|HUSB|Y|@I6000000187208915826@
+--> 1 CHIL @I6000000187208777821@
+<-- 1|CHIL|Y|@I6000000187208777821@
+--> 0 @F6000000187208920844@ FAM
+<-- 0|FAM|Y|@F6000000187208920844@
+--> 1 WIFE @I6000000187208530894@
+<-- 1|WIFE|Y|@I6000000187208530894@
+--> 1 HUSB @I6000000187208920836@
+<-- 1|HUSB|Y|@I6000000187208920836@
+--> 1 CHIL @I6000000187208791822@
+<-- 1|CHIL|Y|@I6000000187208791822@
+--> 0 @F6000000187209674837@ FAM
+<-- 0|FAM|Y|@F6000000187209674837@
+--> 1 HUSB @I6000000187209674829@
+<-- 1|HUSB|Y|@I6000000187209674829@
+--> 1 WIFE @I6000000187209870827@
+<-- 1|WIFE|Y|@I6000000187209870827@
+--> 1 CHIL @I6000000187208836828@
+<-- 1|CHIL|Y|@I6000000187208836828@
+--> 0 @F6000000187208820854@ FAM
+<-- 0|FAM|Y|@F6000000187208820854@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 15 APR 1932
+<-- 2|DATE|Y|15 APR 1932
+--> 2 ADDR Bagalkot
+<-- 2|ADDR|N|Bagalkot
+--> 3 CONT KA India
+<-- 3|CONT|N|KA India
+--> 3 CITY Bagalkot
+<-- 3|CITY|N|Bagalkot
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 WIFE @I6000000187209296821@
+<-- 1|WIFE|Y|@I6000000187209296821@
+--> 1 HUSB @I6000000187208820846@
+<-- 1|HUSB|Y|@I6000000187208820846@
+--> 1 CHIL @I6000000187208850821@
+<-- 1|CHIL|Y|@I6000000187208850821@
+--> 0 @F6000000187209521830@ FAM
+<-- 0|FAM|Y|@F6000000187209521830@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 12 FEB 1941
+<-- 2|DATE|Y|12 FEB 1941
+--> 2 ADDR KA India
+<-- 2|ADDR|N|KA India
+--> 3 STAE KA
+<-- 3|STAE|N|KA
+--> 3 CTRY India
+<-- 3|CTRY|N|India
+--> 1 WIFE @I6000000187209521822@
+<-- 1|WIFE|Y|@I6000000187209521822@
+--> 1 HUSB @I6000000187208820846@
+<-- 1|HUSB|Y|@I6000000187208820846@
+--> 1 CHIL @I6000000187209644836@
+<-- 1|CHIL|Y|@I6000000187209644836@
+--> 0 @F6000000187209672827@ FAM
+<-- 0|FAM|Y|@F6000000187209672827@
+--> 1 WIFE @I6000000187209644836@
+<-- 1|WIFE|Y|@I6000000187209644836@
+--> 1 HUSB @I6000000187209716823@
+<-- 1|HUSB|Y|@I6000000187209716823@
+--> 1 CHIL @I6000000187209672822@
+<-- 1|CHIL|Y|@I6000000187209672822@
+--> 0 @S6000000187208539823@ SUBM
+<-- 0|@S6000000187208539823@|N|SUBM
+--> 1 NAME Mahesh Hiremath
+<-- 1|NAME|Y|Mahesh Hiremath
+--> 0 TRLR
+<-- 0|TRLR|Y|
