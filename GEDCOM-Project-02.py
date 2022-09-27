@@ -5,12 +5,12 @@ import sys
 supportedTags=['INDI', 'NAME', 'SEX', 'BIRT', 'DEAT',
                 'FAMC', 'FAMS', 'FAM', 'MARR', 'HUSB', 'WIFE',
                 'CHIL', 'DIV', 'DATE', 'HEAD', 'TRLR', 'NOTE']
-file_name = 'Mahesh G H- 20015431.ged'
+file_name = 'Team3-gedcom-testFile.ged'
 def GEDCOM_parser(file_name):
     file = open(file_name,'r')
     list_of_lines = file.readlines()
     sys.stdout = open ("gedcom_proj02_outputLogs.txt", 'w')
-    print("Output console logs of GEDCOM project 02: Authored by Maheshwarswami G Hiremath ; CWID-20015431")
+    print("Output console logs of GEDCOM project 02: Authored by Team 3 ")
     for line in list_of_lines:  
         line = line.replace('\n', '')
         print('--> {0}'.format(line))
