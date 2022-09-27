@@ -1,6 +1,6 @@
-Output console logs of GEDCOM project 02: Authored by Maheshwarswami G Hiremath ; CWID-20015431
---> 0 NOTE Maheshwarswami Gadigeyyaswami Hiremath
-<-- 0|NOTE|Y|Maheshwarswami Gadigeyyaswami Hiremath
+Output console logs of GEDCOM project 02: Authored by Team 3 
+--> 0 NOTE Github Repository URL : https://github.com/mghiremath/CS555-GEDCOM.git
+<-- 0|NOTE|Y|Github Repository URL : https://github.com/mghiremath/CS555-GEDCOM.git
 --> 0 HEAD
 <-- 0|HEAD|Y|
 --> 1 SOUR Geni.com
