@@ -1,0 +1,50 @@
+Path accepted
+                                     ERRORS                                     
+
+User Story             Description:                                  Location
+--------------------------------------------------------------------------------
+US02            Birth of wife occurs after marriage                   I7        
+US02            Birth of husband occurs after marraige                I8        
+US02            Birth of wife occurs after marriage                   I7        
+US02            Birth of husband occurs after marraige                I8        
+US02            Birth of wife occurs after marriage                   I7        
+US02            Birth of husband occurs after marraige                I8        
+US02            Birth of wife occurs after marriage                   I7        
+US02            Birth of husband occurs after marraige                I8        
+US02            Birth of wife occurs after marriage                   I7        
+US02            Birth of husband occurs after marraige                I8        
+US05            Death of Wife occurs before marriage                  I7        
+US05            Death of Wife occurs before marriage                  I7        
+US05            Death of Wife occurs before marriage                  I7        
+US05            Death of Wife occurs before marriage                  I7        
+US05            Death of Wife occurs before marriage                  I7        
+
+
++-----+--------------------------------+------------+-----+------------+-------+--------------------------------------------------+--------------------------------------------------------------+
+|  id |              Name              |  Birthday  | Sex | Death Date | Alive |                      Child                       |                            Spouse                            |
++-----+--------------------------------+------------+-----+------------+-------+--------------------------------------------------+--------------------------------------------------------------+
+|  I1 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False | ['F1', 'F1', 'F1', 'F2', 'F2', 'F5', 'F4', 'F3'] | ['F1', 'F1', 'F2', 'F3', 'F4', 'F4', 'F3', 'F5', 'F5', 'F2'] |
+|  I2 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False | ['F1', 'F1', 'F1', 'F2', 'F2', 'F5', 'F4', 'F3'] |    ['F1', 'F2', 'F3', 'F4', 'F4', 'F3', 'F5', 'F5', 'F2']    |
+|  I3 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False | ['F1', 'F1', 'F1', 'F2', 'F2', 'F5', 'F4', 'F3'] |       ['F2', 'F3', 'F4', 'F4', 'F3', 'F5', 'F5', 'F2']       |
+|  I4 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False |    ['F1', 'F1', 'F2', 'F2', 'F5', 'F4', 'F3']    |          ['F3', 'F4', 'F4', 'F3', 'F5', 'F5', 'F2']          |
+|  I5 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False |       ['F1', 'F2', 'F2', 'F5', 'F4', 'F3']       |          ['F3', 'F4', 'F4', 'F3', 'F5', 'F5', 'F2']          |
+|  I6 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False |          ['F2', 'F2', 'F5', 'F4', 'F3']          |                ['F4', 'F3', 'F5', 'F5', 'F2']                |
+|  I7 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False |          ['F2', 'F2', 'F5', 'F4', 'F3']          |                   ['F3', 'F5', 'F5', 'F2']                   |
+|  I8 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False |          ['F2', 'F2', 'F5', 'F4', 'F3']          |                         ['F5', 'F2']                         |
+|  I9 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  | 1989-03-16 | False |          ['F2', 'F2', 'F5', 'F4', 'F3']          |                            ['F2']                            |
+| I10 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  |    None    |  True |          ['F2', 'F2', 'F5', 'F4', 'F3']          |                              []                              |
+| I11 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  |    None    |  True |             ['F2', 'F5', 'F4', 'F3']             |                              []                              |
+| I12 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  |    None    |  True |                ['F5', 'F4', 'F3']                |                              []                              |
+| I13 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  |    None    |  True |                   ['F4', 'F3']                   |                              []                              |
+| I14 | ['Lily', '/Gilbert-Gioletti/'] | 1983-05-18 |  F  |    None    |  True |                      ['F3']                      |                              []                              |
++-----+--------------------------------+------------+-----+------------+-------+--------------------------------------------------+--------------------------------------------------------------+
+----------------------------------------------------------------------------------------------------------------------------------------
++-----+------------+---------+--------------------------------+------+--------------------------------+-------------------------------------------------------+------------+
+| Fid |  Marriage  | Husband |          Husband Name          | Wife |           Wife Name            |                        Children                       |  Divorce   |
++-----+------------+---------+--------------------------------+------+--------------------------------+-------------------------------------------------------+------------+
+|  F1 | 1965-07-03 |    I8   | ['Lily', '/Gilbert-Gioletti/'] |  I7  | ['Lily', '/Gilbert-Gioletti/'] | ['I3', 'I4', 'I5', 'I10', 'I11', 'I14', 'I13', 'I12'] | 1961-04-18 |
+|  F2 | 1965-07-03 |    I8   | ['Lily', '/Gilbert-Gioletti/'] |  I7  | ['Lily', '/Gilbert-Gioletti/'] |          ['I10', 'I11', 'I14', 'I13', 'I12']          | 1961-04-18 |
+|  F3 | 1965-07-03 |    I8   | ['Lily', '/Gilbert-Gioletti/'] |  I7  | ['Lily', '/Gilbert-Gioletti/'] |                 ['I14', 'I13', 'I12']                 | 1961-04-18 |
+|  F4 | 1965-07-03 |    I8   | ['Lily', '/Gilbert-Gioletti/'] |  I7  | ['Lily', '/Gilbert-Gioletti/'] |                     ['I13', 'I12']                    | 1961-04-18 |
+|  F5 | 1965-07-03 |    I8   | ['Lily', '/Gilbert-Gioletti/'] |  I7  | ['Lily', '/Gilbert-Gioletti/'] |                        ['I12']                        |    None    |
++-----+------------+---------+--------------------------------+------+--------------------------------+-------------------------------------------------------+------------+
