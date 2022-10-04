@@ -12,7 +12,7 @@ __email__ = "mhiremat@stevens.edu"
 
 #default file path
 
-FILENAME = 'Sprint_1/gedcom_files/testFile_incorrectData.ged'
+FILENAME = 'Sprint_1/gedcom_files/fail/testFile_incorrectData.ged'
 
 x = PrettyTable()
 y = PrettyTable()
