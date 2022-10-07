@@ -1,5 +1,6 @@
 from datetime import datetime
 from unittest import TestCase
+from Sprint_1.src.models import family
 
 err_list = []
 
@@ -100,4 +101,25 @@ def report_error(error_type, description, locations):
     err_list.extend(locations)
 
     err_list.extend(locations)
+    
+ 
+
+########################################################################
+#US04 Marriage before divorce
+def us04(indi, fam:list[family]):
+
+    # For each family check divorce before marriage
+    return_flag = True
+    error_type = "US04"
+    for family in fam:
+        if family.divorce == 'NA' or family.fam_marr== 'NA':
+            continue
+        if family.divorce > family.fam_marr:
+            report_error(error_type,"Family divorce before marriage",str(family.uniqueId))
+            return_flag=False
+        else:
+            report_error(error_type,"Family divorce after marriage",str(family.uniqueId))
+            return_flag=False
+
+    return return_flag
 
