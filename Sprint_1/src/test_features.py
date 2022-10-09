@@ -1,6 +1,6 @@
 from datetime import datetime
 from unittest import TestCase
-from Sprint_1.src.models import family
+from models import family
 
 err_list = []
 
@@ -88,22 +88,6 @@ def us05(indi, fam):
 
     return return_flag
 
-# report Error to the console
-def report_error(error_type, description, locations):
-
-    if isinstance(locations, list):
-        locations = ','.join(locations)
-
-    estr = '{:14.14s}  {:50.50s}    {:10.10s}' \
-        .format(error_type, description, locations)
-    print(estr)
-
-    err_list.extend(locations)
-
-    err_list.extend(locations)
-    
- 
-
 ########################################################################
 #US04 Marriage before divorce
 def us04(indi, fam:list[family]):
@@ -123,3 +107,31 @@ def us04(indi, fam:list[family]):
 
     return return_flag
 
+########################################################################
+#US15
+def  us15(fam):
+    error_type = "US15"
+    for i in fam:
+        if len(i.children)>=0:
+            report_error(error_type,"",str(i.uniqueId))
+            return False
+        else: return True
+
+    
+
+
+# report Error to the console
+def report_error(error_type, description, locations):
+
+    if isinstance(locations, list):
+        locations = ','.join(locations)
+
+    estr = '{:14.14s}  {:50.50s}    {:10.10s}' \
+        .format(error_type, description, locations)
+    print(estr)
+
+    err_list.extend(locations)
+
+    err_list.extend(locations)
+    
+ 
