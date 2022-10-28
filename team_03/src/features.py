@@ -54,7 +54,7 @@ def validate_death(individual):
 
 ########################################################################
 #US04 Marriage before divorce
-def us04(fam:list[family]):
+def us04(fam):
 
     # For each family check divorce before marriage
     return_flag = True
@@ -86,20 +86,58 @@ def  us15(fam):
 ########################################################################
 #US16
 
-def US16(indi, fam):
+def us16(indi, fam):
     error_type = "US16"
     for family in fam:
         name_l=family[4].split()
         last_name=name_l[-1].replace('/','')
         for individual in indi:
-            if individual[0] in family[-1]:
-                if individual[2] =='M' :
+            if individual[0] in family[-1] and individual[2] =='M' :
                     if last_name not in individual[1].split():
                         report_error(error_type,"Lastname not the same as father ",individual[0])
                         return False
                     else: return True
 
 
+########################################################################
+#US22
+
+def us22_unique_ids(indi, fam):
+    error_type="US22"
+    list_all_ids = []
+    for individual in indi:
+        list_all_ids.append(individual[0])
+    for family in fam:
+        list_all_ids.append(family[0])
+
+    seen = set()
+    dupes = []
+
+    for x in list_all_ids:
+        if x in seen:
+            dupes.append(x)
+        else:
+            seen.add(x)
+    if dupes.__sizeof__ != 0:
+        for i in dupes:
+            report_error(error_type, "Duplicate ID Found", i)            
+            return False
+    else: return True
+########################################################################
+#US23
+
+def us23_unique_name_bday(indi):
+    error_type="US23"
+    for individual in indi:
+        for compare_indiv in indi:
+            if individual[1] and compare_indiv[1] and individual[1] == compare_indiv[1]:
+                # same name, compare birthdate
+                if compare_indiv[3] and individual[3] and compare_indiv[3] and individual[3]:
+                    error_location = [individual[0], compare_indiv[0]]
+                    report_error(error_type, "Two individuals share a name and birthdate", error_location)
+                    return False
+
+    return True
 
 # report Error to the console
 def report_error(error_type, description, locations):

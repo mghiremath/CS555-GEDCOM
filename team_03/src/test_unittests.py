@@ -1,7 +1,6 @@
 import unittest
-from features import US16
 from gedFileParser import parser_file
-from features import birth_before_marriage, us05, us15, US16
+from features import birth_before_marriage, us05, us15, us16, us22_unique_ids, us23_unique_name_bday
 
 
 
@@ -13,7 +12,7 @@ class test_more_than_15_siblings(unittest.TestCase):
 
     def test_more_than_15_siblings(self):
         individuals, families = parser_file(fail_file1)
-        self.assertTrue(us15(families), "Test value is not true")
+        self.assertTrue(us15(families))
     def test_more_than_15_siblings(self):
         individuals, families = parser_file(acceptfile)
         self.assertFalse(us15(families), "Test value is not False")
@@ -52,11 +51,25 @@ class test_marriage_before_death(unittest.TestCase):
 class test_male_last_name(unittest.TestCase):
     def test_male_last_name(self):
         individuals, families = parser_file(acceptfile)
-        self.assertTrue(US16(individuals, families))
+        self.assertTrue(us16(individuals, families))
     def test_male_last_name(self):
         individuals, families = parser_file(fail_file1)
-        self.assertFalse(US16(individuals, families))
+        self.assertFalse(us16(individuals, families))
 
+class test_us22(unittest.TestCase):
+    def test_us22_unique_ids(self):
+        individuals, families = parser_file(acceptfile)
+        self.assertTrue(us22_unique_ids(individuals, families))
+    def test_us22_unique_ids(self):
+        individuals, families = parser_file(fail_file1)
+        self.assertFalse(us22_unique_ids(individuals, families))
+
+
+
+class test_us23(unittest.TestCase):
+    def test_male_last_name(self):
+        individuals, families = parser_file(fail_file1)
+        self.assertFalse(us23_unique_name_bday(individuals))
 
 if __name__ == '__main__':
     #print("Inside unittest")

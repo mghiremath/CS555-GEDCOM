@@ -1,8 +1,6 @@
 import datetime
-from time import strptime
 from individual import Individual
 from family import Family
-from tabulate import tabulate
 
 individuals = {}
 families = {}
@@ -142,7 +140,7 @@ def parser_file(file_path: str):
     is_individual = False
     is_family = False
 
-    linesList = []
+    lines_list = []
 
     # default  tags and args to str
   
@@ -171,25 +169,25 @@ def parser_file(file_path: str):
 
             if level == 0:
                 if is_individual:
-                    newIndividual = process_individual(linesList)
-                    individuals[newIndividual.identifier] = newIndividual
+                    new_individual = process_individual(lines_list)
+                    individuals[new_individual.identifier] = new_individual
                 if is_family:
-                    newFamily = process_family(linesList)
-                    families[newFamily.identifier] = newFamily
+                    new_family = process_family(lines_list)
+                    families[new_family.identifier] = new_family
                 if tag == "INDI":
                     is_individual = True
                     is_family = False
-                    linesList = []
+                    lines_list = []
                 elif tag == "FAM":
                     is_individual = False
                     is_family = True
-                    linesList = []
+                    lines_list = []
                 else:
                     is_individual = False
                     is_family = False
 
             if tag in supported_tags:
-                linesList.append([level, tag, args])
+                lines_list.append([level, tag, args])
 
             for family in families.keys():
                 families[family].husband_name = individuals[families[family].husband_id].name
@@ -226,92 +224,6 @@ def parser_file(file_path: str):
                     fam.get_children(),
                 ]
             )
-        return individual_list ,family_list    
-        
 
+        return individual_list ,family_list   
 
-# def display_output():
-
-#     individual_field_names = [
-#         "ID",
-#         "NAME",
-#         "GENDER",
-#         "BIRTHDAY",
-#         "AGE",
-#         "ALIVE",
-#         "DEATH",
-#         "CHILD",
-#         "SPOUSE",
-#     ] 
-    
-#     family_field_names = [
-#         "ID",
-#         "MARRIED",
-#         "DIVORCED",
-#         "HUSBAND ID",
-#         "HUSBAND NAME",
-#         "WIFE ID",
-#         "WIFE NAME",
-#         "CHILDREN",
-#     ]
-
-#     print("\n")
-
-#     individual_list = []
-#     for individual in sorted(individuals.keys()):
-#         ind = individuals[individual]
-#         individual_list.append(
-#             [
-#                 ind.identifier,
-#                 ind.name,
-#                 ind.gender,
-#                 ind.birthday,
-#                 ind.age,
-#                 ind.alive,
-#                 ind.get_death_day(),
-#                 ind.get_children_family() ,
-#                 ind.get_spouse_family(),
-#             ]
-#         )
-
-#     table = tabulate(individual_list, headers=individual_field_names, tablefmt="orgtbl")
-#     print(table)
-
-#     print("\n")
-
-#     with open("output.txt","w") as f:
-#         f.writelines(str(table))
-#         f.write("\n")
-#         f.write("\n")
-
-#     family_list = []
-#     for family in sorted(families.keys()):
-#         fam = families[family]
-#         family_list.append(
-#             [
-#                 fam.identifier,
-#                 fam.married,
-#                 fam.get_is_divorced(),
-#                 fam.husband_id,
-#                 fam.husband_name,
-#                 fam.wife_id,
-#                 fam.wife_name,
-#                 fam.get_children(),
-#             ]
-#         )
-#     table = tabulate(family_list, headers=family_field_names, tablefmt="orgtbl")
-#     print(table)
-
-#     print("\n")
-
-    # with open("output.txt","a") as f:
-    #     f.writelines(str(table))
-    # print(individual_list[3])
-    # return individual_list ,family_list
-
-
-
-
-
-# if __name__ == "__main__":
-#     parser_file("Team3-gedcom-testFile.ged")
