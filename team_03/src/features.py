@@ -139,6 +139,36 @@ def us23_unique_name_bday(indi):
 
     return True
 
+########################################################################
+#US29
+
+def us29_deceased_list(indi):
+    error_type = "US29"
+    deceased_list = []
+    for individual in indi:
+        if(individual[5] == False):
+            report_error(error_type,'Indiviual is deceased',individual[0])
+            deceased_list.append(individual[0])
+    print(error_type, "           The deceased list is:                              ", deceased_list)
+    return True
+
+            
+########################################################################
+#US35
+
+def us35_recent_births(indi):
+    error_type = "US35"
+    recent_births_list = []
+    curr_date = datetime.today()
+    
+    for invidual in indi:
+        age = (curr_date.date()- invidual[3]).days
+        if(0 < age <=30):
+            report_error(error_type, "Born in the last 30 days:", invidual[0])
+            recent_births_list.append(invidual[0])
+    print(error_type, "           The Recent births list is:                              ", recent_births_list)
+    return True
+
 # report Error to the console
 def report_error(error_type, description, locations):
 

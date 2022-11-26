@@ -1,0 +1,33 @@
+test_birth_before_marriage_1 (test_unittests.test_birth_before_marriage) ... ok
+test_birth_before_marriage_2 (test_unittests.test_birth_before_marriage) ... ok
+test_birth_before_marriage_3 (test_unittests.test_birth_before_marriage) ... US02            Birth of Husband occurs after marriage                I1        
+US02            Birth of Wife occurs after marriage                   I2        
+ok
+test_birth_before_marriage_4 (test_unittests.test_birth_before_marriage) ... ok
+test_male_last_name (test_unittests.test_male_last_name) ... US16            Lastname not the same as father                       I4        
+ok
+test_marriage_before_death1 (test_unittests.test_marriage_before_death) ... US05            Death of Wife occurs before marriage                  I5        
+ok
+test_marriage_before_death2 (test_unittests.test_marriage_before_death) ... US05            Death of Wife occurs before marriage                  I5        
+ok
+test_more_than_15_siblings (test_unittests.test_more_than_15_siblings) ... ok
+test_us22_unique_ids (test_unittests.test_us22) ... ok
+test_male_last_name (test_unittests.test_us23) ... US23            Two individuals share a name and birthdate            I1,I1     
+ok
+test_us29_deceased_list (test_unittests.test_us29) ... US29            Indiviual is deceased                                 I1        
+US29            Indiviual is deceased                                 I2        
+US29            Indiviual is deceased                                 I3        
+US29            Indiviual is deceased                                 I4        
+US29            Indiviual is deceased                                 I6        
+US29            Indiviual is deceased                                 I8        
+US29            Indiviual is deceased                                 I9        
+US29            The deceased list is:                               ['I1', 'I2', 'I3', 'I4', 'I6', 'I8', 'I9']
+ok
+test_us35_recent_births (test_unittests.test_us35) ... US35            Born in the last 30 days:                             I14       
+US35            The Recent births list is:                               ['I14']
+ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.007s
+
+OK

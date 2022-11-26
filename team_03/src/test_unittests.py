@@ -1,6 +1,6 @@
 import unittest
 from gedFileParser import parser_file
-from features import birth_before_marriage, us05, us15, us16, us22_unique_ids, us23_unique_name_bday
+from features import birth_before_marriage, us05, us15, us16, us22_unique_ids, us23_unique_name_bday, us29_deceased_list, us35_recent_births
 
 
 
@@ -70,6 +70,16 @@ class test_us23(unittest.TestCase):
     def test_male_last_name(self):
         individuals, families = parser_file(fail_file1)
         self.assertFalse(us23_unique_name_bday(individuals))
+
+class test_us29(unittest.TestCase):
+    def test_us29_deceased_list(self):
+        individuals, families = parser_file(acceptfile)
+        self.assertTrue(us29_deceased_list(individuals))
+
+class test_us35(unittest.TestCase):
+    def test_us35_recent_births(self):
+        individuals, families = parser_file(fail_file1)
+        self.assertIsNotNone(us35_recent_births(individuals))
 
 if __name__ == '__main__':
     #print("Inside unittest")
